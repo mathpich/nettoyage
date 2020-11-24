@@ -2,8 +2,8 @@ Package: nettoyage
 Title: Nettoyage de donnees
 Version: 0.0.1
 Authors@R: 
-    person(given = "David",
-           family = "Gohel",
+    person(given = "Mathilde",
+           family = "Pichot Utrera",
            role = c("aut", "cre"),
            email = "david.gohel@ardata.fr")
 Description: Nettoyage de base de donnees.
